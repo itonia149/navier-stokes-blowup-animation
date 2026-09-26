@@ -8,11 +8,17 @@ A text-free JavaScript animation inspired by the finite-time Navier–Stokes blo
 
 **[⬇ Download the MP4](https://drive.google.com/uc?export=download&id=1KJ7Vr1KPmXPds1KPuqdeorN1USkAuM6Z)**
 
-The rendered video is hosted on Google Drive so the Git repository can stay lightweight.
+GitHub supports inline MP4 playback in README files when the video is uploaded through GitHub's Markdown editor. GitHub then stores the video as a user attachment and inserts the supported asset URL into the Markdown. The public Google Drive copy above is kept as the canonical downloadable render.
+
+<!--
+INLINE VIDEO SLOT:
+On github.com, edit this README and drag/drop the MP4 here.
+GitHub will upload it as a user attachment and insert the video URL automatically.
+-->
 
 ## What is being visualized
 
-The animation is built around the central blowup scalings from the construction, with
+The animation is built around the central blowup scalings from the construction,
 
 ```text
 radial scale:  l_r ~ tau^(1/2)
