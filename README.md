@@ -4,17 +4,11 @@ A text-free JavaScript animation inspired by the finite-time Navier–Stokes blo
 
 ## Video
 
-**[▶ Watch the rendered animation on Google Drive](https://drive.google.com/file/d/1KJ7Vr1KPmXPds1KPuqdeorN1USkAuM6Z/view?usp=sharing)**
+**[▶ Watch the rendered animation on GitHub](./blowup.mp4)**
 
-**[⬇ Download the MP4](https://drive.google.com/uc?export=download&id=1KJ7Vr1KPmXPds1KPuqdeorN1USkAuM6Z)**
+**[⬇ Download the MP4](https://raw.githubusercontent.com/itonia149/navier-stokes-blowup-animation/main/blowup.mp4)**
 
-GitHub supports inline MP4 playback in README files when the video is uploaded through GitHub's Markdown editor. GitHub then stores the video as a user attachment and inserts the supported asset URL into the Markdown. The public Google Drive copy above is kept as the canonical downloadable render.
-
-<!--
-INLINE VIDEO SLOT:
-On github.com, edit this README and drag/drop the MP4 here.
-GitHub will upload it as a user attachment and insert the video URL automatically.
--->
+The rendered video is stored directly in this repository as [`blowup.mp4`](./blowup.mp4).
 
 ## What is being visualized
 
